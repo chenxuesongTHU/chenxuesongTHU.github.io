@@ -18,7 +18,7 @@ Education and Experiences
 
 Publications
 ======
-
+* ***陈雪松***, 张帆, 刘奕群, 罗成, 张敏, 马少平. 图像搜索环境下用户满意度预测方法研究. The 24rd China Conference on Information Retrieval (CCIR 2018). **(CCIR2018)**.
 
 
 
