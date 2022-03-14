@@ -37,7 +37,7 @@ Videos
 
 Patents
 ======
-* 刘奕群, 陈雪松, 谢晓晖, 叶子逸, 朱书琦, 张敏, 马少平. 网页搜索方法及装置、电子设备和存储介质. (专利号：202111423899.4)
+* 刘奕群, **陈雪松**, 谢晓晖, 叶子逸, 朱书琦, 张敏, 马少平. 网页搜索方法及装置、电子设备和存储介质. (专利号：202111423899.4)
 * Yiqun Liu, **Xuesong Chen**, Xiaohui Xie, Ziyi Ye, Shuqi Zhu, Min Zhang, and Shaoping Ma. Web Search System via Brain-Machine Interface. (Ameraican Patent)
 
 
