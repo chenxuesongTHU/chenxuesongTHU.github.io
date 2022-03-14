@@ -21,7 +21,7 @@ Publications
 * ***Xuesong Chen***, Ziyi Ye, Xiaohui Xie, Yiqun Liu, Xiaorong Gao, Weihang Su, Shuqi Zhu, Yike Sun, Min Zhang, and Shaoping Ma. Web Search via an Efficient and Effective Brain-Machine Interface. The 15th ACM International Conference on Web Search and Data Mining. (WSDM 2022). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/WSDM2022Chen.pdf).
 * ***陈雪松***, 毛佳昕, 马为之, 刘奕群, 张敏, 马少平. 中西方媒体报道各国疫情的对比及情感分析方法研究. (计算机学报)
 * ***陈雪松***, 张帆, 刘奕群, 罗成, 张敏, 马少平. 图像搜索环境下用户满意度预测方法研究. The 24rd China Conference on Information Retrieval (CCIR 2018). 
-Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, **Xuesong Chen**, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. The Web Conference 2022. (theWebConf 2022).
+* Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, **Xuesong Chen**, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. The Web Conference 2022. (theWebConf 2022).
 
 Articles
 ======
