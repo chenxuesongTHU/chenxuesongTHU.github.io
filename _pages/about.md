@@ -25,17 +25,16 @@ Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, **Xuesong Chen**, Min Zhang, and 
 
 Articles
 ======
-* ***Xuesong Chen***, Jiaxin Mao, Yiqun Liu, Min Zhang and Shaoping Ma. Investigating human reading behavior during sentiment judgment. International Journal of Machine Learning and Cybernetics.[Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/Cybernetics2022Chen.pdf)
-* ***Xuesong Chen***, Ziyi Ye, Xiaohui Xie, Yiqun Liu, Xiaorong Gao, Weihang Su, Shuqi Zhu, Yike Sun, Min Zhang, and Shaoping Ma. Web Search via an Efficient and Effective Brain-Machine Interface. The 15th ACM International Conference on Web Search and Data Mining. (WSDM 2022). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/WSDM2022Chen.pdf).
-* ***陈雪松***, 毛佳昕, 马为之, 刘奕群, 张敏, 马少平. 中西方媒体报道各国疫情的 对比及情感分析方法研究. (计算机学报)
-* ***陈雪松***, 张帆, 刘奕群, 罗成, 张敏, 马少平. 图像搜索环境下用户满意度预测方法研究. The 24rd China Conference on Information Retrieval (CCIR 2018). 
+* [基于脑机接口的Web搜索系统](https://mp.weixin.qq.com/s/QC0RqZYclW3zGrqgRIAR4w)
+* [中西方媒体视角下的各国疫情——基于情感分析数据的公正性分析](https://mp.weixin.qq.com/s/I92ajjSMiuHOxrEBnK1ILw)
+* [西方媒体怎么看各国新冠疫情防控？ 基于26万篇新闻报道的实证情感分析](https://mp.weixin.qq.com/s/hpL9kArDvx2crxGcFJC_YQ)
 
 Videos
 ======
 * [基于脑机接口的Web搜索系统](https://mp.weixin.qq.com/s/QC0RqZYclW3zGrqgRIAR4w)
-* [中西方媒体视角下的各国疫情——基于情感分析数据的公正性分析](https://mp.weixin.qq.com/s/I92ajjSMiuHOxrEBnK1ILw)
-* [西方媒体怎么看各国新冠疫情防控？ 基于26万篇新闻报道的实证情感分析](https://mp.weixin.qq.com/s/hpL9kArDvx2crxGcFJC_YQ)
-* 
+* [Web Search System via Brain-Machine Interface](https://youtu.be/3AIwKjNN0Hw?list=PLfH6RKzt0GfVrvB6pGURUfqbJgU0io6ru)
+* [Web Search via an Efficient and Effective Brain-Machine Interface](https://youtu.be/_BzeHnQEGLQ?list=PLfH6RKzt0GfVrvB6pGURUfqbJgU0io6ru)
+
 Patents
 ======
 * 刘奕群, 陈雪松, 谢晓晖, 叶子逸, 朱书琦, 张敏, 马少平. 网页搜索方法及装置、电子设备和存储介质. (专利号：202111423899.4)
