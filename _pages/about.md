@@ -22,7 +22,8 @@ Publications
 * ***陈雪松***, 毛佳昕, 马为之, 刘奕群, 张敏, 马少平. 中西方媒体报道各国疫情的对比及情感分析方法研究. (计算机学报). [Preprint Version](http://cjc.ict.ac.cn/online/onlinepaper/cxs-2022426184028.pdf)
 * ***陈雪松***, 张帆, 刘奕群, 罗成, 张敏, 马少平. 图像搜索环境下用户满意度预测方法研究. The 24rd China Conference on Information Retrieval(CCIR 2018). [Preprint Version](https://www.doc88.com/p-9951745796058.html)
 * Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, **Xuesong Chen**, Min Zhang, and Shaoping Ma. Towards a Better Understanding of Human Reading Comprehension with Brain Signals. The Web Conference 2022. (theWebConf 2022).
-* Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, **Xuesong Chen**, Min Zhang and Shaoping Ma. Why Don’t You Click: Understanding Non-Click Results in Web Search with Brain Signals. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (SIGIR 2022).
+* Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, **Xuesong Chen**, Min Zhang and Shaoping Ma. Why Don’t You Click: Understanding Non-Click Results in Web Search with Brain Signals. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (SIGIR 2022). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2022Ye.pdf)
+* Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, **Xuesong Chen**, Min Zhang and Shaoping Ma. Brain Topography Adaptive Satisfaction Modeling for Interactive Information Access. The 30th ACM International Conference on Multimedia (MM 2022).
 
 
 Articles
