@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have graduated from [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Information Retrieval , Brain Machine Interface, User Behavior Analysis and Sentiment Analysis.
+I have graduated from [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Information Retrieval , Brain Machine Interface, User Behavior Analysis and Sentiment Analysis. Now, 
 
 Publications
 ======
