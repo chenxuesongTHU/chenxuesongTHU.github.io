@@ -10,11 +10,6 @@ redirect_from:
 
 I am now a second year master student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Information Retrieval , Brain Machine Interface, User Behavior Analysis and Sentiment Analysis.
 
-Education and Experiences
-======
-* **Aug. 2019 - now.** master student, Department of Computer Science and Technology, Tsinghua University, China.
-* **Aug. 2014 - Jul. 2018.** B.E., Department of Computer Science and Technology, Qinghai University, China.
-
 Publications
 ======
 * ***Xuesong Chen***, Jiaxin Mao, Yiqun Liu, Min Zhang and Shaoping Ma. Investigating human reading behavior during sentiment judgment. International Journal of Machine Learning and Cybernetics.[Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/Cybernetics2022Chen.pdf)
